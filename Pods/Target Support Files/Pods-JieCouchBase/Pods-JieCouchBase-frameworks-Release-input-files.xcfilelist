@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-JieCouchBase/Pods-JieCouchBase-frameworks.sh
+${PODS_ROOT}/CouchbaseLite-Swift/iOS/CouchbaseLiteSwift.framework
+${PODS_ROOT}/CouchbaseLite-Swift/iOS/CouchbaseLiteSwift.framework.dSYM
